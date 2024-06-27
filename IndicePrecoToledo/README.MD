@@ -9,12 +9,11 @@ Failed to resolve dependency 'firebase@10.12.2' (Can't resolve '' in '/tmp/snack
 
 Tentei diversas formas possiveis, porém sem sucesso, apenas rodou em minha maquina
 
-
-https://github.com/lucasdiasbrr/IndicePrecoToledo.git
+Link do git atualizado
+https://github.com/lucasdiasbrr/indice-preco-exame.git
 
 Video do app Rodando
 https://drive.google.com/file/d/1_BoAaOIvHJIEsNawnosxV-JKCNnUeVWB/view?usp=sharing
-
 
 Expo - Link do Exame
 https://snack.expo.dev/@lucasdiasbrr/indice-preco-exame
